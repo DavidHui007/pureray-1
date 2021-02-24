@@ -19,23 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b56a875-9195-42d3-8bfb-c17dec200450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysDept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysDict.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysLoginLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysRoleDept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysRoleMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SysUserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/system/SystemUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/tool/CodeGeneration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/PurerayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sys/hf/pureray/PurerayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="5b56a875-9195-42d3-8bfb-c17dec200450" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
